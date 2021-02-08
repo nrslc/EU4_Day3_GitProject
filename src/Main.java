@@ -4,6 +4,6 @@ public class Main {
         System.out.println("Hello Git Last Day");
         // I want to be excited
         // everyday is a nice day to hope
-        // EU4 will be succesfull
+        // EU4 will be successful
     }
 }
